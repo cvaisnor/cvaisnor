@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 👋 Hi there!
 ### I am currently practicing Python 🐍 , building ML models 🖥 , or learning something new 📚 !
 
-### About Me:
 #### Past: 
 * I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
 * In August 2021 I completed the IBM Data Science Professional Certificate
