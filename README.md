@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * Working with a team for the IBM / University of Florida 10-week Hackathon
 
 #### Future:
-* I plan to start a Master's Program in Data Science in Spring or Fall of 2022 (actively applying)
+* Start a Master's Program in Data Science in Spring or Fall of 2022 (actively applying)
 * Work as a machine learning engineer / data science intern before the Master's program starts
 
 ## Please reach out if you want to collaborate or chat! 💬
