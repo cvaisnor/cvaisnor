@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * Working with a team for the IBM / University of Florida 10-week Hackathon
 
 #### Future:
-* Starting a Master's Program in Artifical Intelligence in Spring / Fall of 2022 (actively applying)
+* Starting a Master's Program in Artificial Intelligence in Spring / Fall of 2022 (actively applying)
 * Work as a machine learning engineer / data science intern before the Master's program starts
 
 ## Please reach out if you want to collaborate or chat! 💬
