@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 #### Present:
 * Getting familiar with Deep Learning libraries
-* Working with a team for the IBM / University of Florida 10-week Hackathon
+* Working on different hackathons
 
 #### Future:
-* Starting a Master's Program in Artificial Intelligence in Spring of 2022 at Johns Hopkins University
+* Starting a Master's Program in Artificial Intelligence in May of 2022 at Johns Hopkins University
 * Work as a machine learning engineer / data science intern
 
 ## Please reach out if you want to collaborate or chat! 💬
