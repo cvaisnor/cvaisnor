@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * Completing Master's degree prerequisites
 
 #### Future:
-* Starting a Master's Program in Artificial Intelligence in Fall of 2022 at Johns Hopkins University
+* Starting a __Master's Program in Artificial Intelligence__ in Fall of 2022 at Johns Hopkins University
 * Work as a machine learning engineer / data science intern
 * Change the world one step at a time
 
