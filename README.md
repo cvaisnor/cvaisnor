@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 #### Past: 
 * I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
-* In August 2021 I completed the IBM Data Science Professional Certificate
+* In January 2022 my teamate and I were awarded $3000 for winning our hackathon cartegory with the University of Florida
 
 #### Present:
 * Getting familiar with Deep Learning libraries
 * Working on different hackathons
 
 #### Future:
-* Starting a Master's Program in Artificial Intelligence in May of 2022 at Johns Hopkins University
+* Starting a Master's Program in Artificial Intelligence in Fall of 2022 at Johns Hopkins University
 * Work as a machine learning engineer / data science intern
 
 ## Please reach out if you want to collaborate or chat! 💬
