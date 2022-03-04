@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi there!
-### I am currently practicing Python 🐍 , building ML models 🖥 , or learning something new 📚 !
+### I am currently practicing Python 🐍 and C++ 💾, building ML models 🖥 , or learning something new 📚 !
 
 #### Past: 
 * I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
