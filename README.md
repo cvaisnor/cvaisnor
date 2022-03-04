@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### Past: 
 * I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
 * In January 2022 my team was awarded $3000 for winning our hackathon category with the University of Florida
-* Built an autonomouse RC car using a Jetson Nano and Tensorflow
+* Built an autonomous RC car using a Jetson Nano and Tensorflow
 
 #### Present:
 * Getting familiar with Deep Learning libraries
