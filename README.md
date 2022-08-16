@@ -17,21 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi there!
 ### Currently practicing Python 🐍 and C++ 💾, building ML models 🖥 , or learning something new 📚 !
 
-#### Past: 
 * I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
-* In January 2022 my team was awarded $3000 for winning our hackathon category with the University of Florida
-* Built an autonomous RC car using a Jetson Nano and Tensorflow
+* Starting a __Master's Program in Artificial Intelligence__ in August 2022 at Johns Hopkins University
+* Currently applying for Machine Learning Engineer internships for Summer 2023
 
-#### Present:
-* Getting familiar with Deep Learning libraries
-* Working on different hackathons
-* Completing Master's degree prerequisites
-
-#### Future:
-* Starting a __Master's Program in Artificial Intelligence__ in Fall of 2022 at Johns Hopkins University
-* Work as a machine learning engineer / data science intern
-* Change the world one step at a time
-
-## Please reach out if you want to collaborate or chat! 💬
-
-
+* All of my latest work is in private repos. Please send me a message on LinkedIn if you are looking for code examples. 
