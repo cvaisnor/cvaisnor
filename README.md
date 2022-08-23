@@ -12,13 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 # 👋 Hi there!
-### Currently practicing Python 🐍 and C++ 💾, building ML models 🖥 , or learning something new 📚 !
 
-* I graduated with a __Managerial Economics B.S. from UC Davis__ in __June of 2021__
-* Starting a __Master's Program in Artificial Intelligence__ in August 2022 at Johns Hopkins University
-* Currently applying for __Machine Learning Engineer internships__ for __Summer 2023__
+* I graduated with a __Managerial Economics B.S.__ from UC Davis in June of 2021
+* As of August 2022 I am an __Artificial Intelligence Master's Candidate__ @ Johns Hopkins University
+* Currently applying for __Machine Learning Engineer internships__ for Summer 2023
 
 * All of my latest work is in private repos. Please send me a message on LinkedIn if you are looking for code examples. 
