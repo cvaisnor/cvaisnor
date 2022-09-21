@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 * As of August 2022 I am an __Artificial Intelligence Master's Student__ @ Johns Hopkins University
 * Currently applying for __Machine Learning Engineer internships__ for Spring / Summer 2023
 
-Check out my [website!](chrisvaisnor.com)
+Check out my [website!](https://chrisvaisnor.com)
