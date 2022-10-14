@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 # 👋 Hi there!
 
 * I graduated with a __Managerial Economics B.S.__ from UC Davis in June of 2021
-* As of August 2022 I am an __Artificial Intelligence Master's Student__ @ Johns Hopkins University
+* I am a first year __Artificial Intelligence Master's Student__ @ Johns Hopkins University
 * Currently applying for __Machine Learning Engineer internships__ for Spring / Summer 2023
 
 Check out my [website!](https://chrisvaisnor.com)
+
+For recruiters: All my latest work is in private repos, send me a LinkedIn message for access! 
