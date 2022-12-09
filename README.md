@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Check out my [website!](https://chrisvaisnor.com)
 
-For recruiters: All my latest work is in private repos, send me a LinkedIn message for access! 
+For recruiters: Most of my work is in private repos. I'm happy to send examples over email if you would like!
