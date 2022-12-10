@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Check out my [website!](https://chrisvaisnor.com)
 
-For recruiters: Most of my work is in private repos. I'm happy to send examples over email if you would like!
+For recruiters: Most of my work is in private repos. I'm happy to send code examples over email!
