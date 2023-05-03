@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 
 * I graduated with a __Managerial Economics B.S.__ from UC Davis in June of 2021
 * I am a first year __Artificial Intelligence Master's Student__ @ Johns Hopkins University
-
-Check out my [website!](https://chrisvaisnor.com)
