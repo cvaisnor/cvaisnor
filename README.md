@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there!
 
-* I graduated with a __Managerial Economics B.S.__ from UC Davis in June of 2021
-* I am a second year __Artificial Intelligence Master's Student__ @ Johns Hopkins University
+* UC Davis - Managerial Economics B.S. - 2021
+* The Johns Hopkins University - Artificial Intelligence M.S. - 2024
