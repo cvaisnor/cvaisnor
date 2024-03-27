@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 # 👋 Hi there!
 
 * UC Davis - Managerial Economics B.S. - 2021
-* The Johns Hopkins University - Artificial Intelligence M.S. - 2024
+* Johns Hopkins University - Artificial Intelligence M.S. - 2024
 
 
