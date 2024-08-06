@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * Johns Hopkins University - Artificial Intelligence M.S. - 2024
 
 <a href="https://github.com/cvaisnor/github-stats-private-0">
-  <img height=200 align="center" src="https://github-stats-private-blue.vercel.app/api?username=cvaisnor&include_all_commits=true&theme=merko&show_icons=true&rank_icon=github&hide=stars" />
+  <img height=200 align="center" src="https://github-stats-private-blue.vercel.app/api?username=cvaisnor&include_all_commits=true&theme=merko&show_icons=true&hide_rank=true&hide=stars" />
 </a>
 <a href="https://github.com/cvaisnor/github-stats-private-1">
   <img height=200 align="center" src="https://github-stats-private-blue.vercel.app/api/top-langs/?username=cvaisnor&hide=jupyter%20notebook,cython,HTML,CSS,tex,fortran,typescript,meson,powershell,shell,javascript&exclude_repo=tessella&layout=compact" />
