@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 * Johns Hopkins University - Artificial Intelligence M.S. - 2024
 
 [![Chris Vaisnor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvaisnor&theme=merko&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvaisnor&hide_languages=jupyter_notebooks)](https://github.com/anuraghazra/github-readme-stats)
