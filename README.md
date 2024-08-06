@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * Johns Hopkins University - Artificial Intelligence M.S. - 2024
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cvaisnor&theme=merko&show_icons=true&rank_icon=github&hide=stars" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cvaisnor&include_all_commits=true&theme=merko&show_icons=true&rank_icon=github&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaisnor&hide=jupyter%20notebook&layout=compact" />
