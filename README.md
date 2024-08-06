@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 * UC Davis - Managerial Economics B.S. - 2021
 * Johns Hopkins University - Artificial Intelligence M.S. - 2024
 
-
+[![Chris Vaisnor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvaisnor)](https://github.com/anuraghazra/github-readme-stats)
