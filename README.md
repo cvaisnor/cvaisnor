@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaisnor&hide=jupyter%20notebook&layout=compact" />
 </a>
-
-[![Chris Vaisnor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvaisnor&theme=merko&show_icons=true&rank_icon=github&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvaisnor&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
