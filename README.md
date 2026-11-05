@@ -1,6 +1,6 @@
 # About Me
 
-I'm CTO and founding engineer at [Adalace](https://joinadalace.com), agentic operating software for salons, spas, and service-retail businesses. I lead engineering on our multi-tenant SaaS platform and built the agent swarm that works inside our customers' automations and business logic.
+I'm CTO and founding engineer at [JoinAdalace.com](https://joinadalace.com), agentic operating software for salons, spas, and service-retail businesses. I lead engineering on our multi-tenant SaaS platform and built the agent swarm that works inside our customers' automations and business logic.
 
 My background spans LLM agentic systems, deep learning, cybersecurity, and embedded robotics, with ML deployed everywhere from HPC clusters to edge devices. Decision Theory, Probability, and Information Theory from my economics and AI degrees shape how I design software around non-deterministic systems.
 
